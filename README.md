@@ -1,9 +1,9 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Aniket Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width = "400" src= "![image](https://github.com/Aniketghosh2003/Aniketghosh2003/assets/121872510/9355b202-39e0-404e-b631-f98bd9f12bfd)">
+<img align="right" alt = "coding" width = "400" src= "![image](https://github.com/Aniketghosh2003/Aniketghosh2003/assets/121872510/cbb6c5fd-9a37-459a-8c74-61768da1ff97)
+">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketghosh2003&label=Profile%20views&color=0e75b6&style=flat" alt="aniketghosh2003" /> </p>
