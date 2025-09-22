@@ -8,7 +8,7 @@
 - 🧑‍🎓 I am Aniket and I am in my final year of Btech in IT .
 - 🤝 I am looking to collaborating on FullStack project
 
-- 📖 I’m currently  **ML etc**
+- 📖 I’m currently  **DevOps etc**
 
 - 💬 Ask me about **Dsa,Web Dev**
 
