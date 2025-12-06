@@ -10,7 +10,7 @@
 
 - 📖 I’m currently learning **DevOps etc**
 
-- 💬 Ask me about **Dsa,**MERN
+- 💬 Ask me about **Dsa, MERN**
 
 - 📫 How to reach me **ghoshaniket00000@gmail.com**
 
