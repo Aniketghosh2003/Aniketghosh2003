@@ -8,9 +8,9 @@
 - 🧑‍🎓 I am Aniket and I am in my final year of Btech in IT .
 - 🤝 I am looking to collaborating on FullStack project
 
-- 📖 I’m currently  **DevOps etc**
+- 📖 I’m currently learning **DevOps etc**
 
-- 💬 Ask me about **Dsa,Web Dev**
+- 💬 Ask me about **Dsa,**MERN
 
 - 📫 How to reach me **ghoshaniket00000@gmail.com**
 
